@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbcfeeae-0f4b-4734-b4b9-7ca5b0ff07ec": {
+      "ProjectGuid": "dbcfeeae-0f4b-4734-b4b9-7ca5b0ff07ec",
+      "DisplayName": "DynamicCast_Test",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
